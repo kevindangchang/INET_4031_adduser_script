@@ -4,7 +4,7 @@ Python Script for Adding Users/Groups to a System
 ## Description
 This Python Script reads user/group data from an input file, processes the file line-by-line and adds each user to the system.
 
-
+The import os lets you talk to the operating system importing re lets you use regular expression and importing sys lets you use system commands
   
 ## Operation
   
@@ -21,5 +21,11 @@ jdoe11:mypass:Doe:John:admins, reviewers
 The name of the input file is up to the user.  Convention is create-users.input
 
 ### Running the Script
-
-*Students should add a detailed description of how to run the code here. Do permissions on the file need to be set?  How you do run the script?  What version of Python?  Anything else you think would help the person who takes over your code.  Remove this line when complete.*
+step 1:
+```
+chmod a+x create-users.py
+```
+step 2: 
+```
+test
+```
