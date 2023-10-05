@@ -27,5 +27,5 @@ chmod a+x create-users.py
 ```
 step 2: 
 ```
-test
+sudo ./create-users.py < create-users.input
 ```
